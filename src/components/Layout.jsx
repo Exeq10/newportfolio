@@ -91,7 +91,7 @@ function Layout() {
         </h2>
 
         <button className=" w-44 h-10 text-lg bg-white text-skyblue rounded-md shadow[0px 4px 4px 0px white]   hover:bg-skyblue hover:text-white  duration-300  ">
-        <a href="https://wa.me/+598587036" target="_blank">Contact me</a>
+        <a href="https://walink.co/d8f100" target="_blank">Contact me</a>
         </button>
 
         <a
