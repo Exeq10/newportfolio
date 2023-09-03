@@ -13,7 +13,7 @@ function CardProject({ data }) {
       className="w-full flex  md:flex-row flex-col md:justify-start md:items-start  justify-center items-center  md:mt-10  py-2 rounded-md "
     >
       <picture className=" md:w-2/5 ">
-        <img className="drop-shadow-lg" src={picture} alt={nombre} />
+        <img  src={picture} alt={nombre} />
       </picture>
 
       <div className="flex  md:items-start md:mb-2 items-center mt-7 mb-12 flex-col">

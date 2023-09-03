@@ -22,7 +22,7 @@ export const MyProjects = [
     },
     {
         nombre : 'TurisUY',
-        picture :'/img/TurisUY.svg',
+        picture :'/img/turisUy.svg',
         desc : 'App to find the best drinks and beverages',
         techs :['HTML5','CSS3','Javascript','Gulp','Sass'],
         url:'https://turisuy.netlify.app/',
@@ -30,7 +30,7 @@ export const MyProjects = [
     },
     {
         nombre : 'Flux',
-        picture :'/img/Flux.svg',
+        picture :'/img/flux.svg',
         desc : 'App created collaboratively, virtual wallet ',
         techs :['ReactJs','Tailwindcss','Zustand','Framer Motion','Sweet Alert'],
         url:'https://flux-nosliwkuns.vercel.app/',
@@ -44,19 +44,12 @@ export const MyProjects = [
         url:'https://pitufines-animaciones.netlify.app/',
         github:'https://github.com/Exeq10/Pitufines-Animaciones'
     },
+   
     {
-        nombre : 'Wheater App',
-        picture :'/img/wapp.svg',
-        desc : 'App to view the weather and detect your location',
-        techs :['HTML5','CSS3','Javascript','Fetch Api'],
-        url:'https://myweatherappexe.netlify.app/',
-        github:'https://github.com/Exeq10/MyweatherApp'
-    },
-    {
-        nombre : 'GC  Integral',
-        picture :'/img/gc.svg',
-        desc : 'Web of general maintenance services in houses',
-        techs :['Wordpress'],
+        nombre : 'Sushi Rocha',
+        picture :'/img/Sushi.svg',
+        desc : 'Web of Sushi Delivery',
+        techs :['HTML5,CSS3,JavaScript'],
         url:'https://gustavocorazasintegral.online/',
         github:''
     }
