@@ -3,6 +3,16 @@ export const MyProjects = [
 
 
     {
+        nombre : 'IntelliStock',
+        picture :'/img/intelliStock.svg',
+        desc : 'App in progress, stock control and finances ',
+        techs :['React js','Tailwind Css','FontAwesome','Google-Charts'],
+    
+        url:'https://dashboardpannel.netlify.app/login',
+        github:'https://github.com/Exeq10/DashboardPannel'
+    },
+
+    {
         nombre : 'Boost.uy Marketing',
         picture :'/img/boost.svg',
         desc : 'Website BoostUY Marketing Agency ',
