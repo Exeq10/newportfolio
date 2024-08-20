@@ -1,11 +1,15 @@
 import React from "react";
 
+import { FaCheckCircle } from "react-icons/fa";
 import { useForm, ValidationError } from "@formspree/react";
 
 function ContactForm() {
   const [state, handleSubmit] = useForm("myyvrajn");
   if (state.succeeded) {
-    return <p className="text-xl text-center mt-10">Message sent</p>;
+    return <div className="flex flex-col justify-center items-center mt-8">
+<FaCheckCircle fontSize={'100px'} color="green" />
+      <p className="text-xl text-center mt-10 uppercase font-semibold ">   Message sent</p>
+    </div>
   }
 
   return (

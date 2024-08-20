@@ -8,10 +8,10 @@ export const MyProjects = [
         desc : 'App in progress, stock control and finances ',
         techs :['React js','Tailwind Css','FontAwesome','Google-Charts'],
     
-        url:'https://dashboardpannel.netlify.app/login',
+        url:'https://intellistock.netlify.app/',
         github:'https://github.com/Exeq10/DashboardPannel'
     },
-
+   
     {
         nombre : 'Boost.uy Marketing',
         picture :'/img/boost.svg',
@@ -27,12 +27,12 @@ export const MyProjects = [
         desc : 'Web of good places to vacation in uruguay ',
         techs :['HTML5','CSS3','Javascript','Gulp','Sass','Api Fetch'],
     
-        url:'https://drinkideas.netlify.app/',
+        url:'https://drinkideas.netlify.app',
         github:'https://github.com/Exeq10/DrinkIdeas'
     },
     {
         nombre : 'TurisUY',
-        picture :'/img/turisUy.svg',
+        picture :'/img/TurisUY.svg',
         desc : 'App to find the best drinks and beverages',
         techs :['HTML5','CSS3','Javascript','Gulp','Sass'],
         url:'https://turisuy.netlify.app/',
@@ -40,7 +40,7 @@ export const MyProjects = [
     },
     {
         nombre : 'Flux',
-        picture :'/img/flux.svg',
+        picture :'/img/Flux.svg',
         desc : 'App created collaboratively, virtual wallet ',
         techs :['ReactJs','Tailwindcss','Zustand','Framer Motion','Sweet Alert'],
         url:'https://flux-nosliwkuns.vercel.app/',
@@ -55,14 +55,7 @@ export const MyProjects = [
         github:'https://github.com/Exeq10/Pitufines-Animaciones'
     },
    
-    {
-        nombre : 'Sushi Rocha',
-        picture :'/img/Sushi.svg',
-        desc : 'Web of Sushi Delivery',
-        techs :['HTML5,CSS3,JavaScript'],
-        url:'https://gustavocorazasintegral.online/',
-        github:''
-    }
+  
 ]
 
 
