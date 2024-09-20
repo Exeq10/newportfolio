@@ -18,7 +18,7 @@ function About() {
     <p className="text-center max-w-2xl animate-wiggle ">
 
 
-    Hello! I'm Exequiel Schiavo, a passionate 28-year-old Front-End developer. I strive to transcend the boundaries of creativity and performance in every project. Committed to continuous learning, each line of code is an opportunity to express my passion for creation and innovation. I blend a strong technical foundation with captivating design and exceptional user experience. If you're seeking a passionate and motivated collaborator,  <a href="#" className="text-skyblue">contact me</a> and let's bring your most ambitious projects to life!.
+    Hello! I'm Exequiel Schiavo, a passionate 30-year-old Front-End developer. I strive to transcend the boundaries of creativity and performance in every project. Committed to continuous learning, each line of code is an opportunity to express my passion for creation and innovation. I blend a strong technical foundation with captivating design and exceptional user experience. If you're seeking a passionate and motivated collaborator,  <a href="#" className="text-skyblue">contact me</a> and let's bring your most ambitious projects to life!.
     </p>
 </div>
     

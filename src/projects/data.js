@@ -3,6 +3,24 @@ export const MyProjects = [
 
 
     {
+        nombre : 'Ahora Español',
+        picture :'/img/ahora_español.png',
+        desc : `Website offering language learning`,
+        techs :['React js','Tailwind css','Javascript'],
+    
+        url:' https://ahoraespaniol.netlify.app/',
+        github:''
+    },
+    {
+        nombre : 'Covertor-Inkua',
+        picture :'/img/convertor.svg',
+        desc : `Convertor Time is an app developed for INKUA    `,
+        techs :['React js','Css 3','Javascript', 'API Fetch'],
+    
+        url:' https://deployconversor.vercel.app/',
+        github:'https://github.com/Exeq10/conversor-v2.git'
+    },
+    {
         nombre : 'IntelliStock',
         picture :'/img/intelliStock.svg',
         desc : 'App in progress, stock control and finances ',
