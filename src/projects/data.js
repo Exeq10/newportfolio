@@ -17,7 +17,7 @@ export const MyProjects = [
         desc : `Convertor Time is an app developed for INKUA    `,
         techs :['React js','Css 3','Javascript', 'API Fetch'],
     
-        url:' https://deployconversor.vercel.app/',
+        url:' https://time.inkua.de',
         github:'https://github.com/Exeq10/conversor-v2.git'
     },
     {
